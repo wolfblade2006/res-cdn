@@ -1,0 +1,14 @@
+/* [4] */
+@font-face {
+    font-family: 'MISans_Medium';
+    font-style: normal;
+    font-display: swap;
+    src: url(https://res.cdn.wolvendom.top/fonts/MiSans/MiSans-Medium.woff2) format('woff2');
+  }
+  
+  @font-face {
+    font-family: 'JetBrainsMono Regular';
+    font-style: normal;
+    font-display: swap;
+    src: url(https://res.cdn.wolvendom.top/fonts/JetBrainsMono-Regular.woff2) format('woff2');
+  }

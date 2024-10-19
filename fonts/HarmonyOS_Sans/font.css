@@ -1,0 +1,14 @@
+/* [4] */
+@font-face {
+  font-family: 'HarmonyOS_Sans_SC_Medium';
+  font-style: normal;
+  font-display: swap;
+  src: url(https://res.cdn.wolvendom.top/fonts/HarmonyOS_Sans/HarmonyOS_Sans_SC_Medium.woff2) format('woff2');
+}
+
+@font-face {
+  font-family: 'JetBrainsMono Regular';
+  font-style: normal;
+  font-display: swap;
+  src: url(https://res.cdn.wolvendom.top/fonts/HarmonyOS_Sans/JetBrainsMono-Regular.woff2) format('woff2');
+}
